@@ -1,1 +1,2 @@
-hell
+print("hello, world!")
+
